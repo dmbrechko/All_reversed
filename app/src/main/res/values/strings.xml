@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">All reversed</string>
+    <string name="all_reversed">All reversed</string>
+    <string name="enter_text">Enter text</string>
+    <string name="transform">Transform</string>
+    <string name="symbols_count">Symbols count:</string>
+    <string name="symbols_count_ready">Symbols count: %d</string>
+    <string name="result">Result:</string>
+    <string name="result_ready">Result: %s</string>
+</resources>
